@@ -1,0 +1,14 @@
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.AssemblyInfoInputs.cache
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.AssemblyInfo.cs
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.csproj.CoreCompileInputs.cache
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\bin\Debug\net9.0\stringvar.exe
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\bin\Debug\net9.0\stringvar.deps.json
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\bin\Debug\net9.0\stringvar.runtimeconfig.json
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\bin\Debug\net9.0\stringvar.dll
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\bin\Debug\net9.0\stringvar.pdb
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.dll
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\refint\stringvar.dll
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.pdb
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\stringvar.genruntimeconfig.cache
+C:\Users\zaku2\Desktop\M1Prog_cs1\02_var\stringvar\obj\Debug\net9.0\ref\stringvar.dll
