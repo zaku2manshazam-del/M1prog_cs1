@@ -2,8 +2,14 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Hello, World!");
+        int[] nummers = { 42, 60, 89 };
+
+        for (int i = 0; i < nummers.Length; i++)
+        {
+            int nummer = nummers[i];
+            Console.WriteLine(nummer);
+        }
     }
 }

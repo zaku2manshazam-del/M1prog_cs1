@@ -1,0 +1,15 @@
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\bin\Debug\net9.0\06_loops.exe
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\bin\Debug\net9.0\06_loops.deps.json
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\bin\Debug\net9.0\06_loops.runtimeconfig.json
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\bin\Debug\net9.0\06_loops.dll
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\bin\Debug\net9.0\06_loops.pdb
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.AssemblyInfoInputs.cache
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.AssemblyInfo.cs
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.csproj.CoreCompileInputs.cache
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.sourcelink.json
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.dll
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\refint\06_loops.dll
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.pdb
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\06_loops.genruntimeconfig.cache
+C:\Users\zaku2\Desktop\M1Prog_cs1\opdrachten\06_loops\obj\Debug\net9.0\ref\06_loops.dll

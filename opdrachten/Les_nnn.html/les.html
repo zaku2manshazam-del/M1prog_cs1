@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Roller</title>
+</head>
+<body>
+    <h1>Dice Roller</h1>
+    <div id="dice" style="font-size: 48px;">-</div>
+    <button onclick="showDice()">Roll Dice</button>
+
+    <script>
+    function rolldice() {
+        let dice = Math.floor(Math.random() * 6 + 1);
+        return dice;
+    }
+
+    function showDice() {
+        let d1 = rolldice();
+        document.getElementById('dice').textContent = d1;
+    }
+    </script>
+</body>
+</html>
